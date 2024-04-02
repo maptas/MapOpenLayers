@@ -1,0 +1,19 @@
+@import "node_modules/ol/ol.css";
+
+html, body {
+  margin: 0;
+  height: 100%;
+}
+#map {
+/*  position: absolute;*/
+  top: 0;
+  bottom: 0;
+  width: 80%;
+  height: 80%;
+}
+#sidepanel {
+  background-color: #1F6B75;
+  width: 20%;
+  height: 100%;
+  float: left;
+}

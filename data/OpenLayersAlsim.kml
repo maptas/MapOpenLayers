@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>OpenLayersAlsim</name>
+	<gx:CascadingStyle kml:id="__managed_style_03217C153129C19A7D1B">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1C12A6042D29C19A7D1A">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E9E61989629C19A7D1A">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C12A6042D29C19A7D1A</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_03217C153129C19A7D1B</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0F2E4FB48F29C19A7D19">
+		<name>SimuParis</name>
+		<LookAt>
+			<longitude>2.362397023625902</longitude>
+			<latitude>48.82070178053428</latitude>
+			<altitude>56.56915561953973</altitude>
+			<heading>90</heading>
+			<tilt>90</tilt>
+			<gx:fovy>30.00000147808138</gx:fovy>
+			<range>24933.62328924704</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E9E61989629C19A7D1A</styleUrl>
+		<Point>
+			<coordinates>2.385266419448939,48.84400122385545,39.37893591725166</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01E6E87AEF29C19B245E">
+		<name>SimuMadrid</name>
+		<LookAt>
+			<longitude>-3.686304876617869</longitude>
+			<latitude>40.40293174250208</latitude>
+			<altitude>621.2758225444774</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000147808138</gx:fovy>
+			<range>7987.656387307217</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E9E61989629C19A7D1A</styleUrl>
+		<Point>
+			<coordinates>-3.692709294154967,40.40014265148857,646.8450628581063</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="068C67CA2C29C19BE18D">
+		<name>SimuRome</name>
+		<LookAt>
+			<longitude>12.50780843626889</longitude>
+			<latitude>41.88317717146681</latitude>
+			<altitude>36.62855464865181</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000147808138</gx:fovy>
+			<range>12711.27783742268</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E9E61989629C19A7D1A</styleUrl>
+		<Point>
+			<coordinates>12.50347528961466,41.89611758485004,56.48373420151344</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="003D87448829C19CCAAA">
+		<name>SimuMoscou</name>
+		<LookAt>
+			<longitude>37.63655010955161</longitude>
+			<latitude>55.72527294668575</latitude>
+			<altitude>133.0537574216149</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000147808138</gx:fovy>
+			<range>6814.684438908007</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E9E61989629C19A7D1A</styleUrl>
+		<Point>
+			<coordinates>37.63117607340266,55.73197161573751,132.2763642202636</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02248091B629C19D4374">
+		<name>SimuVarsovie</name>
+		<LookAt>
+			<longitude>21.01754844691943</longitude>
+			<latitude>52.22387664353878</latitude>
+			<altitude>130.649650562894</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000147808138</gx:fovy>
+			<range>9172.527158955347</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E9E61989629C19A7D1A</styleUrl>
+		<Point>
+			<coordinates>21.01741058834722,52.22655068750958,110.2305843087402</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
